@@ -19,7 +19,7 @@ export class User extends Component {
                 </a>
               </p>
               <p className='no-margin'>Location: {userInfo.location}</p>
-              {userInfo.email && <p className='no-margin'>Email:{userInfo.email}</p>}
+              {userInfo.email && <p className='no-margin'>Email: {userInfo.email}</p>}
             </div>
           </div>
         )}
