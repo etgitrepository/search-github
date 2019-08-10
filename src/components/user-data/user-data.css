@@ -1,0 +1,14 @@
+.user-info {
+  display: flex;
+  margin-top: 32px;
+}
+
+img {
+  margin-right: 16px;
+}
+
+p.no-margin {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: left;
+}
